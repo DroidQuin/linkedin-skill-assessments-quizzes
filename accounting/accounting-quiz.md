@@ -480,11 +480,11 @@ I'm not 100% sure on this.
 - [ ] the metric system
 - [ ] TREE
 - [ ] GAAP
-- [ ] IFRS
+- [x] IFRS
 
 #### Q58. What type of audit evidence would be considered the weakest type?
 
-- [ ] oral evidence
+- [x] oral evidence
 - [ ] physical examination
 - [ ] confirmation
 - [ ] documentary evidence
@@ -520,13 +520,13 @@ I'm not 100% sure on this.
 #### Q63. According to cost formula Y = $20,000 + $4x, what would be the total cost at an activity level of 15,000 units?
 
 - [ ] $60,000
-- [ ] $20,000
+- [x] $20,000
 - [ ] $35,000
 - [ ] $80,000
 
 #### Q64. A company can change to a new accounting principle if management can justify that the change will result in what?
 
-- [ ] more relevant decision-making information
+- [x] more relevant decision-making information
 - [ ] lower net income to report for tax purposes
 - [ ] changing depreciation methods for higher net income
 - [ ] reduced potential for administrative error
@@ -564,7 +564,7 @@ I'm not 100% sure on this.
 - [ ] when the company must decide to purchase assets and what investment is required
 - [ ] how much of a company's assets are financed by creditors
 - [ ] how often a company must replace existing assets and equipment
-- [ ] how efficiently a company uses its assets to generate revenue
+- [x] how efficiently a company uses its assets to generate revenue
 
 #### Q70. What cost is easily traceable to a cost object?
 
@@ -582,7 +582,7 @@ I'm not 100% sure on this.
 
 #### Q72. Flexible budgets are created to demonstrate how **\_**.
 
-- [ ] changes in activity levels affect predicted revenue and costs
+- [x] changes in activity levels affect predicted revenue and costs
 - [ ] management need to make changes to budget targets following poor performance
 - [ ] an inaccurate operational budget results from poor budgeting data
 - [ ] current results fully align to budgetary allocations
@@ -599,4 +599,4 @@ I'm not 100% sure on this.
 - [ ] management's complete disclosure of unresolved legal action
 - [ ] limited competition in the company's industry resulting in increasing profitability
 - [ ] the audit committee's approval of specific accounting methods and principles
-- [ ] year-end financial adjustments significantly impacting the financial results
+- [x] year-end financial adjustments significantly impacting the financial results
